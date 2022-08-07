@@ -1,0 +1,5 @@
+
+<!-- To be launched on device controller is connected to-->
+<launch>
+	<node pkg = "teleop_keyboard" name = "controller" type = "controller.py"/>
+</launch>
